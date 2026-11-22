@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sebastian Zbytniewski</h1>
+<h1 align="center">Hi 👋, I'm Pyta</h1>
 <h3 align="center">Computer science student at the University of Gdańsk</h3>
 
 - 🔭 I’m currently working on [NEAT algorithms](https://github.com/szbytniewski/ReinforcmentTraningInAGame)
 
-- 📫 How to reach me **zbytniewski.sebastian@gmail.com**
+- 📫 How to reach me **pytniewski.sebastian@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
